@@ -1,1 +1,12 @@
+{
+  "name": "stock-analytics-frontend",
+  "version": "1.0.0",
+  "description": "Frontend for the Stock Market Analytics Dashboard.",
+  "main": "App.js",
+  "scripts": {
+    "start": "echo \"To run the frontend, open index.html in a browser, preferably with a live server extension.\""
+  },
+  "author": "",
+  "license": "ISC"
+}
 
